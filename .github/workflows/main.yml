@@ -7,8 +7,7 @@ push:
 pull_requests:
     branches: [main]
     
-jobs:
-    
+jobs:  
     runs-on: ubuntu-latest
     steps:
     name: checkout code
